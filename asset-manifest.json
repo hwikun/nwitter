@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/m9dnrs/nwitter/static/css/main.9333dc4c.chunk.css",
-    "main.js": "/m9dnrs/nwitter/static/js/main.3681f93e.chunk.js",
-    "main.js.map": "/m9dnrs/nwitter/static/js/main.3681f93e.chunk.js.map",
-    "runtime-main.js": "/m9dnrs/nwitter/static/js/runtime-main.657e0c77.js",
-    "runtime-main.js.map": "/m9dnrs/nwitter/static/js/runtime-main.657e0c77.js.map",
-    "static/js/2.3866a93c.chunk.js": "/m9dnrs/nwitter/static/js/2.3866a93c.chunk.js",
-    "static/js/2.3866a93c.chunk.js.map": "/m9dnrs/nwitter/static/js/2.3866a93c.chunk.js.map",
-    "index.html": "/m9dnrs/nwitter/index.html",
-    "precache-manifest.1657f8e1a3296862bad78834ce070aac.js": "/m9dnrs/nwitter/precache-manifest.1657f8e1a3296862bad78834ce070aac.js",
-    "service-worker.js": "/m9dnrs/nwitter/service-worker.js",
-    "static/css/main.9333dc4c.chunk.css.map": "/m9dnrs/nwitter/static/css/main.9333dc4c.chunk.css.map",
-    "static/js/2.3866a93c.chunk.js.LICENSE.txt": "/m9dnrs/nwitter/static/js/2.3866a93c.chunk.js.LICENSE.txt"
+    "main.css": "/nwitter/static/css/main.9333dc4c.chunk.css",
+    "main.js": "/nwitter/static/js/main.3681f93e.chunk.js",
+    "main.js.map": "/nwitter/static/js/main.3681f93e.chunk.js.map",
+    "runtime-main.js": "/nwitter/static/js/runtime-main.222ae764.js",
+    "runtime-main.js.map": "/nwitter/static/js/runtime-main.222ae764.js.map",
+    "static/js/2.1f8be2f1.chunk.js": "/nwitter/static/js/2.1f8be2f1.chunk.js",
+    "static/js/2.1f8be2f1.chunk.js.map": "/nwitter/static/js/2.1f8be2f1.chunk.js.map",
+    "index.html": "/nwitter/index.html",
+    "precache-manifest.8408aa9c91c2b65235b7c5690b094424.js": "/nwitter/precache-manifest.8408aa9c91c2b65235b7c5690b094424.js",
+    "service-worker.js": "/nwitter/service-worker.js",
+    "static/css/main.9333dc4c.chunk.css.map": "/nwitter/static/css/main.9333dc4c.chunk.css.map",
+    "static/js/2.1f8be2f1.chunk.js.LICENSE.txt": "/nwitter/static/js/2.1f8be2f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.657e0c77.js",
-    "static/js/2.3866a93c.chunk.js",
+    "static/js/runtime-main.222ae764.js",
+    "static/js/2.1f8be2f1.chunk.js",
     "static/css/main.9333dc4c.chunk.css",
     "static/js/main.3681f93e.chunk.js"
   ]
