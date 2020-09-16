@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15a27066ff37ac84c0299d5e5dc19dd9",
+    "revision": "44402c677e310a2ff7634142e1f8315f",
     "url": "/nwitter/index.html"
   },
   {
-    "revision": "eaf5f80b2782d3b824eb",
-    "url": "/nwitter/static/css/main.f4065432.chunk.css"
+    "revision": "08bfd79ecfd25e41c0e3",
+    "url": "/nwitter/static/css/main.8629fa4d.chunk.css"
   },
   {
     "revision": "0ddafaeb56ba25845fd5",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nwitter/static/js/2.1f8be2f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eaf5f80b2782d3b824eb",
+    "revision": "08bfd79ecfd25e41c0e3",
     "url": "/nwitter/static/js/main.470d4af0.chunk.js"
   },
   {
